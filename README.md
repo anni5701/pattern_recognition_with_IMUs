@@ -1,4 +1,4 @@
-# pattern_regocnition_with_IMUs
+# pattern_recognition_with_IMUs
 
 This github repo contains the implementations to the semester project "Pattern recognition with an IMU" by Ann-Kristin Bergmann. The project was done at the EPFL and the Swiss Data Science Center.
 
