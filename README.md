@@ -7,3 +7,4 @@ A short overview on what to find in which notebook:
 
 - calibration.ipynb: Implementation of [A robust and easy to implement method for IMU calibration without external equipments](https://ieeexplore.ieee.org/document/6907297) method 
 - dead_reckoning_kalman_madgwick_mahony.ipynb: A comparison of the three different attitude estimators with the implementation given by [ahrs library](https://ahrs.readthedocs.io/en/latest/index.html)
+- dr_kmm_sampling_smoothing: Extension of the previous notebook with equal sampling and comparison of smoothing (moving average) and filtering (butter) the raw signals
